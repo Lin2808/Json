@@ -1,0 +1,40 @@
+{
+  "ficheros": [
+    {
+      "id": "1",
+      "descripcion": "Sistemas de gestión del aprendizaje – Plataformas de teleformación.",
+      "fecha": "05/04/2020",
+      "url": "https://www.um.es/ead/red/9/SGA.pdf"
+    },
+    {
+      "id": "2",
+      "descripcion": "Las especies en peligro de extinción y los mecanismos para la recuperación y conservación de la biodiversidad.",
+      "fecha": "26/09/2020",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/6995233.pdf"
+    },
+    {
+      "id": "3",
+      "descripcion": "Agujeros negros: Las conferencias Reith de la BBC",
+      "fecha": "30/03/2021",
+      "url": "https://www.planetadelibros.com/libros_contenido_extra/36/35040_Agujeros_negros.pdf"
+    },
+    {
+      "id": "4",
+      "descripcion": "El espacio-tiempo de Einstein",
+      "fecha": "21/10/2021",
+      "url": "https://revista-anales.icai.es/web/n_1/pdf/espacio_tiempo.pdf"
+    },
+    {
+      "id": "5",
+      "descripcion": "Teoría musical",
+      "fecha": "15/01/2022",
+      "url": "https://www.planetadelibros.com/libros_contenido_extra/36/35960_Teoria_musical_para_dummies.pdf"
+    },
+    {
+      "id": "6",
+      "descripcion": "La singularidad y sus consecuencias en la noción de causalidad ¿Existe algún fenómeno al que la ciencia no pueda responder?.",
+      "fecha": "21/01/2022",
+      "url": "https://www.redalyc.org/pdf/5138/513851569015.pdf"
+    }
+  ]
+}
