@@ -36,5 +36,61 @@
       "fecha": "21/01/2022",
       "url": "https://www.redalyc.org/pdf/5138/513851569015.pdf"
     }
+  ],
+  "facultades": [
+    {
+      "nombre": "Facultad de Ciencias Empresariales",
+      "direccion": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+      "decano": "Ing. Mariela Susana Andrade Arias, PhD.",
+      "contacto": "facultadce@uteq.edu.ec",
+      "logo": "https://i.ibb.co/FKWBV40/FCE.png",
+      "latitud": -1.012183,
+      "longitud": -79.470149
+    },
+    {
+      "nombre": "Facultad de Ciencias de la Ingeniería",
+      "direccion": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+      "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+      "contacto": "facultadci@uteq.edu.ec",
+      "logo": "https://i.ibb.co/BcZzynp/FCI.png",
+      "latitud": -1.012593,
+      "longitud": -79.470398
+    },
+    {
+      "nombre": "Facultad de Ciencias Pecuarias",
+      "direccion": "Campus 'La María', km 7 vía Quevedo-El Empalme",
+      "decano": "Ing. Leonardo Gonzalo Matute, M.Sc.",
+      "contacto": "decanato_agropecuarias@uteq.edu.ec",
+      "logo": "https://i.ibb.co/PMVvp9L/FCP.png",
+      "latitud": -1.080731,
+      "longitud": -79.501775
+    },
+    {
+      "nombre": "Facultad de Ciencias de la Industria y Producción",
+      "direccion": "Campus 'La María', km 7 vía Quevedo-El Empalme",
+      "decano": "Ing. Sonnia Esther Barzola Miranda, M.Sc.",
+      "contacto": "fcip@uteq.edu.ec",
+      "logo": "https://i.ibb.co/NCHYGSY/FCIP.png",
+      "latitud": -1.012545,
+      "longitud": -79.470818
+    },
+    {
+      "nombre": "Campus Central UTEQ",
+      "direccion": "Quevedo - Los Ríos - Ecuador",
+      "decano": "Dr. Eduardo Díaz Ocampo, PhD.",
+      "contacto": "(+593) 5 3702-220 Ext. 8052",
+      "logo": "https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadTecnicaEstataldeQuevedo_UTEQ_39_.jpg",
+      "latitud": -1.012439,
+      "longitud": -79.470293
+    },
+    {
+      "nombre": "Campus 'La María'",
+      "direccion": "Quevedo - Los Ríos - Ecuador",
+      "decano": "Dr. Eduardo Díaz Ocampo, PhD",
+      "contacto": "(+593) 5 3702-220 Ext. 8052",
+      "logo": "https://docplayer.es/docs-images/82/85464958/images/1-2.jpg",
+      "latitud": -1.079467,
+      "longitud": -79.500503
+    }
   ]
 }
